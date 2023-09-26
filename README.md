@@ -10,23 +10,39 @@ Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina
 <h3> Tem como principais funcionalidades: </h3>
 <p></p>
     <li>
-    Adição de produto
+    Adição de produto.
     </li> 
     </br>
     <li>
-    Exclusão pelo nome do produto
+    Exclusão através nome do produto.
     </li>
     </br>
     <li>
-    Listagem dos produtos cadastrados no estoque
+    Listagem dos produtos cadastrados no estoque.
     </li>
     </br>
     <li>
-    Atualização do preço pelo nome do produto
+    Busca de produto atraves do nome.
     </li>
     </br>
     <li>
-    Listagem dos produtos de uma categoria especifica
+    Atualização de preço através do nome do produto.
+    </li>
+    </br>
+    <li>
+    Listagem dos produtos de uma categoria especifica.
+    </li>
+    </br>
+    <li>
+    Venda do produto através do nome e quantidade vendida do mesmo.
+    </li>
+    </br>
+    <li>
+    Exibição do histórico de vendas.
+    </li>
+    </br>
+    <li>
+    Exibição do histórico de alterações
     </li>
 <p></p>
 
