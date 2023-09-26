@@ -37,16 +37,16 @@ Para rodar o sistema você deve estar no modulo Main.py e dar run, após o códi
 
 </br>
 <h3>
-    _Modo de uso_
+    Modo de uso
 </h3>
 Após clicar em enter é exibido para o usuario um menu com as possiveis opções
 Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
 
 
 <br>
-<p style="font-size:20px;">
+<h2>
      Em caso de duvida entre em contato com os desenvolvedores pelo:</br>
-</p>
+</h2>
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardamello___)
 
