@@ -1,35 +1,55 @@
-<p align center style="font-size:24px;">
-  Sistema para Gerenciamento de Stock </p>
+<p align="center" style="font-size:40px;">
+  Sistema para Gerenciamento de Estoque </p>
 
-
-### Descrição do projeto:
+<p>
+    <u style="font-size:20px;"> Descrição do projeto: </u></br>
+</p>
 Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina de Laboratório de Algoritmos II do curso de Sistemas de Informação.
 
-### Tem como principais funcionalidades:
-Adição, exclusão, atualização dos preços e produtos do estoque, bem como busca por nome e categoria. Primeirmente temos a função start que inicia o projeto, seguida pelas seguintes funções: 
+<p>
+    <u style="font-size:20px;"> Tem como principais funcionalidades: </u></br>
+</p>    
+    <li>
+    Adição de produto
+    </li> 
+    </br>
+    <li>
+    Exclusão pelo nome do produto
+    </li>
+    </br>
+    <li>
+    Listagem dos produtos cadastrados no estoque
+    </li>
+    </br>
+    <li>
+    Atualização do preço pelo nome do produto
+    </li>
+    </br>
+    <li>
+    Listagem dos produtos de uma categoria especifica
+    </li>
 
-stock.add_product para adicionar um produto ao estoque.
+</br>
+<p>
+    <u style="font-size:20px;"> Como rodar o sistema </u></br>
+</p>  
+Para rodar o sistema você deve estar no modulo Main.py e dar run, após o código já entrara em funcionamento exibindo no terminal a mensagem "Pecione enter para continuar..."
 
-stock.get_product para buscar um produto.
+</br>
+<p>
+    <u style="font-size:20px;"> Modo de uso </u></br>
+</p>
+Após clicar em enter é exibido para o usuario um menu com as possiveis opções
+Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
 
-stock.show_all_products para visualizar todos os produtos disponíveis.
 
-sales.sell_product para vender um produto.
+<br>
+<p style="font-size:20px;">
+     Em caso de duvida entre em contato com os desenvolvedores pelo:</br>
+</p>
 
-historic.show_sales_report para visualizar o relatório de vendas.
-
-stock.price_update para alterar o valor do produto.
-
-stock.delete_product para remover um produto.
-
-historic.change_historic para mostrar o histórico de alterações. 
-
-e por fim, stock.search_by_category para buscar um produto por categoria.
-
-### Modo de uso:
-É mostrado ao usuário um menu, onde ele deve escolhar a opção desejada e a ação será feita.
-
-### Em caso de dúvida acesse:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardamello___)
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevis-cardoso)
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5555996351078)
