@@ -1,3 +1,5 @@
+<p align center> Sistema pra Gerenciamento de Stock </p>
+
 
 ### Descrição do projeto:
 Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina de Laboratório de Algoritmos II do curso de Sistemas de Informação.
