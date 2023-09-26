@@ -1,4 +1,5 @@
-<p align center> Sistema pra Gerenciamento de Stock </p>
+<p align center style="font-size:24px;">
+  Sistema para Gerenciamento de Stock </p>
 
 
 ### Descrição do projeto:
