@@ -1,9 +1,9 @@
 <h1 align="center">
   Sistema para Gerenciamento de Estoque </h1>
 
-<p>
-    <u style="font-size:20px;"> Descrição do projeto: </u></br>
-</p>
+<h3>
+    Descrição do projeto: 
+<h3>
 Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina de Laboratório de Algoritmos II do curso de Sistemas de Informação.
 
 <p>
