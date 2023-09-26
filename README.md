@@ -8,7 +8,7 @@
 Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina de Laboratório de Algoritmos II do curso de Sistemas de Informação.
 
 <h3> Tem como principais funcionalidades: </h3>
-
+<p>
     <li>
     Adição de produto
     </li> 
@@ -28,11 +28,11 @@ Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina
     <li>
     Listagem dos produtos de uma categoria especifica
     </li>
+</p>
 
-</br>
-<p>
-    <u style="font-size:20px;"> Como rodar o sistema </u></br>
-</p>  
+<h3>
+  Como iniciar o sistema
+</h3>  
 Para rodar o sistema você deve estar no modulo Main.py e dar run, após o código já entrara em funcionamento exibindo no terminal a mensagem "Pecione enter para continuar..."
 
 </br>
