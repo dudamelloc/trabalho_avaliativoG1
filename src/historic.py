@@ -48,7 +48,7 @@ def get_in_sale_list(sale_list, name):
     return result
 
 
-def add_change_in_changes_list(changes_list, cahnge):
+def add_change_in_changes_list(changes_list, change):
      """
      Função que coloca uma atualização de produto na lista de atualizações.
 
@@ -57,11 +57,11 @@ def add_change_in_changes_list(changes_list, cahnge):
      :return: Lista de atualização em atualizada.
      """
      new_change = { 
-         "name": cahnge[0],
-         "category" : cahnge[3],
-         "amount" : cahnge[1], 
-         "old_price" : cahnge[2],
-         "new_price" : cahnge[3],
+         "name": change[0],
+         "category" : change[3],
+         "amount" : change[1], 
+         "old_price" : change[2],
+         "new_price" : change[3],
          "change_date" : datetime.datetime.now()
      } 
 
