@@ -82,7 +82,7 @@ def attributes_product(name = None):
          product.append(attribute) 
      return product
 
-def get_product(stock, sales_list):
+def get_product(stock, sales_list, changes_list):
     """
     Função que busca um produto por seu nome e imprime todos seus atributos na tela, incluindo o histórico de vendas do mesmo
     Solicita o nome do profuto a ser buscado, caso não esteja cadastrado gera uma pergunta para o usuario, se ele quer cadastrar o direciona para o cadastro do produto
@@ -101,7 +101,7 @@ def get_product(stock, sales_list):
         option = utilities.validated_yes_no("Deseja adicionar no stock? Y/N?").upper()
 
         if option == "Y":
-            add_product(stock, search)
+            add_product(stock, changes_list, search)
         return
     
     sales_historic = historic.get_in_sale_list(sales_list, search)
