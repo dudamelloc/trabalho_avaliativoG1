@@ -1,5 +1,5 @@
-<p align="center" style="font-size:40px;">
-  Sistema para Gerenciamento de Estoque </p>
+<h1 align="center">
+  Sistema para Gerenciamento de Estoque </h1>
 
 <p>
     <u style="font-size:20px;"> Descrição do projeto: </u></br>
