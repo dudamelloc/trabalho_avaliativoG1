@@ -34,7 +34,7 @@ def direct(option, stock_items, sales_list, changes_list):
          stock.add_product(stock_items, changes_list) 
          
      elif option == 2: 
-         stock.get_product(stock_items, sales_list) 
+         stock.get_product(stock_items, sales_list, changes_list) 
   
      elif option == 3: 
          stock.show_all_products (stock_items) 
