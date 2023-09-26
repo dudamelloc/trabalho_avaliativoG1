@@ -48,7 +48,10 @@ Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina
 <h3>
   Como iniciar o sistema:
 </h3>  
-Para iniciar o sistema você deve estar no modulo Main.py e dar run, após o código já entrara em funcionamento exibindo no terminal a mensagem "Pecione enter para continuar..."
+Para iniciar o sistema você deve estar no diretorio do sistema e digitar o comando abaixo, após o código já entrara em funcionamento exibindo no terminal a mensagem "Pecione enter para continuar..."
+```ssh
+python main.py
+```
 
 </br>
 <h3>
