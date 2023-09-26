@@ -37,7 +37,7 @@ Para rodar o sistema você deve estar no modulo Main.py e dar run, após o códi
 
 </br>
 <h3>
-    **_Modo de uso_**
+    _Modo de uso_
 </h3>
 Após clicar em enter é exibido para o usuario um menu com as possiveis opções
 Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
