@@ -181,7 +181,8 @@ def delete_product(stock, changes_list):
     name = name.capitalize()
 
     if name not in stock:
-        print("Producto {name} não encontrado...")
+        print(f"Produto {name} não encontrado...")
+        return
 
     delete_product = stock.pop(name)
 
