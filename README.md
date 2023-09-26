@@ -48,7 +48,7 @@ Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina
 <h3>
   Como iniciar o sistema:
 </h3>  
-Para iniciar o sistema você deve estar na pasta "src" e digitar o comando abaixo, após isso o código já entrará em funcionamento exibindo no terminal a mensagem "Pecione enter para continuar..."
+Para iniciar o sistema você deve estar na pasta "src" e digitar o comando abaixo, após isso o código já entrará em funcionamento exibindo no terminal a mensagem "Precione enter para continuar..."
 
 ```ssh
 python main.py
