@@ -4,11 +4,11 @@
 <h3>
     Descrição do projeto: 
 </h3>
+
 Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina de Laboratório de Algoritmos II do curso de Sistemas de Informação.
 
-<p>
-    <u style="font-size:20px;"> Tem como principais funcionalidades: </u></br>
-</p>    
+<h3> Tem como principais funcionalidades: </h3>
+
     <li>
     Adição de produto
     </li> 
