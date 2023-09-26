@@ -36,9 +36,9 @@ Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina
 Para rodar o sistema você deve estar no modulo Main.py e dar run, após o código já entrara em funcionamento exibindo no terminal a mensagem "Pecione enter para continuar..."
 
 </br>
-<p>
-    <u style="font-size:20px;"> Modo de uso </u></br>
-</p>
+<h3>
+    **_Modo de uso_**
+</h3>
 Após clicar em enter é exibido para o usuario um menu com as possiveis opções
 Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
 
