@@ -8,7 +8,7 @@
 Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina de Laboratório de Algoritmos II do curso de Sistemas de Informação.
 
 <h3> Tem como principais funcionalidades: </h3>
-<p>
+<p></p>
     <li>
     Adição de produto
     </li> 
@@ -28,7 +28,7 @@ Esse projeto é um trabalho avaliativo de gerenciamento de estoque da disciplina
     <li>
     Listagem dos produtos de uma categoria especifica
     </li>
-</p>
+<p></p>
 
 <h3>
   Como iniciar o sistema
