@@ -78,10 +78,3 @@ Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/thevis-cardoso)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  (https://wa.me/+5555996351078)
-
-<div style="display: inline_block">
-  
-  <img loading="lazy" src="https://avatars.githubusercontent.com/u/126731519?v=4" width=115><br><sub>Maria Eduarda</sub>](https://instagram.com/eduardamello]___/)
-
-  <img loading="lazy" src="" width=115><br><sub>Thevis Cardoso</sub>](https://instagram.com/cardoso_ts07/)
-</div> 
