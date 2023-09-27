@@ -83,8 +83,10 @@ Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
      Desenvolvedores:
 </h2>
 
-<div display:inline-block> 
+<div style="display: flex;"> 
+  
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/126731519?v=4" width=115><br><sub>Maria Eduarda</sub>](https://instagram.com/eduardamello___/)
 
 [<img loading="lazy" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/280212542_714763366531391_1663382936692730444_n.jpg?stp=dst-jpg_s150x150&cb=d185f762-417afcc3&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=111&_nc_ohc=lc4_XJTC8bEAX8rP8CM&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDRuyZL1HXqKuZgcAq1v3mikh3Avl83NHSiMt_wFWukTA&oe=6519FDDF&_nc_sid=ee9879" width=115><br><sub>Thevis Cardoso</sub>](https://instagram.com/cardoso_ts07/)
+
 </div>
