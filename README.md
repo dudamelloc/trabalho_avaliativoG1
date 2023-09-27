@@ -72,16 +72,14 @@ Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
 <h2>
      Em caso de duvida entre em contato com os desenvolvedores pelo:</br>
 </h2>
+<div style="display: inline_block" ></br>
+  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/eduardamello___)
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardamello___)
+  [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]                (https://www.linkedin.com/in/thevis-cardoso)
 
-[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevis-cardoso)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  (https://wa.me/+5555996351078)
+</div> 
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5555996351078)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/126731519?v=4" width=115><br><sub>Maria Eduarda</sub>](https://instagram.com/eduardamello]___/)
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/126731519?v=4" width=115><br><sub>Alex Felipe</sub>](https://instagram.com/eduardamello]___/)
-
-[<img loading="lazy" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/280212542_714763366531391_1663382936692730444_n.jpg?stp=dst-jpg_s150x150&cb=d185f762-417afcc3&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=111&_nc_ohc=jL43LIB5YHQAX9IDVPr&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBg63j0f-N_86tE7FUwVtZm2NduDWAbmM-uKqit6J4tWw&oe=6518039F&_nc_sid=ee9879" width=115><br><sub>Thevis Cardoso</sub>](https://instagram.com/cardoso_ts07/)
-
-
- 
+[<img loading="lazy" src="" width=115><br><sub>Thevis Cardoso</sub>](https://instagram.com/cardoso_ts07/)
