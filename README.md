@@ -79,4 +79,9 @@ Basta escolher a opção e digita-la no campo que o mesmo disponibiliza.
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5555996351078)
 
- [<img loading="lazy" src="https://avatars.githubusercontent.com/u/126731519?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/126731519?v=4" width=115><br><sub>Alex Felipe</sub>](https://instagram.com/eduardamello]___/)
+
+[<img loading="lazy" src="[https://avatars.githubusercontent.com/u/126731519?v=4](https://media.licdn.com/dms/image/D4E03AQHZOctQY8lbew/profile-displayphoto-shrink_800_800/0/1684355589120?e=2147483647&v=beta&t=6wF_l4gwqg4hoQTFl3PpbYTAyxOhWJsMOfeniCszZ4c)https://media.licdn.com/dms/image/D4E03AQHZOctQY8lbew/profile-displayphoto-shrink_800_800/0/1684355589120?e=2147483647&v=beta&t=6wF_l4gwqg4hoQTFl3PpbYTAyxOhWJsMOfeniCszZ4c" width=115><br><sub>Thevis Cardoso</sub>](https://instagram.com/cardoso_ts07/)
+
+
+ 
